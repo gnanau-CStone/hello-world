@@ -1,5 +1,5 @@
-# hello-world
-That repository!
+# heLLo-world
+That repository again!
 
 E timpul sa ne jucam de-a programarea!
-Changed on brcanch readme-edits.
+Changed on branch readme-edits.
